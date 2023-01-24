@@ -1,0 +1,60 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+  background-color: rgba(251, 235, 238, 0.732);
+}
+
+.navigation {
+  background-color: #eef2ff;
+  border-bottom-left-radius: 0.5rem;
+  border-top-right-radius: 0.5rem;
+  /* color: azure; */
+  padding: 1rem;
+}
+
+/* .h3{
+  font-size: 15px;
+  font-weight: 10;
+  /* margin: 0 auto;
+  margin-left: 0.1rem; */
+/* text-align: center;
+}
+
+.seasons {
+  padding: 3rem;
+  margin-right: 7rem;
+  
+} */
+
+/* .travel {
+  display: inline;
+  padding: 0.7rem 2rem;
+  /* margin-right:2rem; */
+/* border-radius: 0.5rem;
+  margin: 0.4rem 0.5rem;
+  border:1px solid grey;;
+  cursor: pointer;
+} */
+
+/* .box1 {
+  text-align: center;
+  margin: 0 auto;
+  /* margin-right: 2rem; */
+/* margin-top: 2rem;
+  width: 30rem;
+  height: 4.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid grey;
+} */
+
+/* .box2{
+
+  text-align: center;
+  margin: 0 auto;
+  margin-top: 2rem;
+  width: 30rem;
+  height: 4.5rem;
+  border-radius: 0.5rem;
+  border: 1px solid grey;
+
+/* } */
